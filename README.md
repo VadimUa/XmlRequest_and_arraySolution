@@ -1,1 +1,2 @@
 # XmlRequest_and_arraySolution
+Hello, my name is Vadim.Here will be my javascript code which creates web elements.As my fist task here i will create work repository using version control system GIT.As main task here will be created code wich send an XmlHttpRequest on server,after  server answer wiil be parsed and shown on website,for example was used a news block,also here is code which decides a sipmle array task to find a specific objects and cound a summary. Code was refactored and optimized.
